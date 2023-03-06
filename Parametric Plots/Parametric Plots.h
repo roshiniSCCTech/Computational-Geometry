@@ -1,0 +1,9 @@
+#pragma once
+#include "Line.h"
+#include "Parabola.h"
+#include "CubicBezier.h"
+#include "Circle.h"
+#include "Ellipse.h"
+#include "Square.h"
+#include "Torus.h"
+#include "Loft.h"

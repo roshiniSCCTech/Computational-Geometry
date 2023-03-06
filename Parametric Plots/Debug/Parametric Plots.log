@@ -1,0 +1,4 @@
+﻿  Parametric Plots.cpp
+C:\Users\Roshini S\source\repos\Computational Geometry\Parametric Plots\Parametric Plots.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Roshini S\source\repos\Computational Geometry\Parametric Plots\Parametric Plots.cpp(23,15): warning C4018: '<': signed/unsigned mismatch
+  Parametric Plots.vcxproj -> C:\Users\Roshini S\source\repos\Computational Geometry\Debug\Parametric Plots.exe
